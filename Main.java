@@ -32,7 +32,7 @@ public class Main
         int differenceInDays = jdnForToday  - jdnForBirthday;
         int numberofYears = differenceInDays / 365;
 		/***** OUTPUT SECTION *****/
-        System.out.println("Julian Day Number for today's date, " + todaysDateMonth + "/" + todaysDateDay + "/" + todaysDateYear + " is " + jdnForToday);
+        System.out.println("Julian Day Number for today's date, " + todaysDateMonth + "/" + todaysDateDay + "/" + todaysDateYear + ", is " + jdnForToday);
         System.out.println("Julian Day Number for birthday, " + birthdayMonth + "/" + birthdayDay + "/" + birthdayYear + ", is " + jdnForBirthday);
         System.out.println("The difference in days is " + differenceInDays + ", which makes you approximately " + numberofYears + " years old!");
   }
