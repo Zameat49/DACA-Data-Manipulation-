@@ -9,12 +9,12 @@ public class Main
 		/***** DECLARATION SECTION *****/
 
 		/***** INITIALIZATION SECTION *****/
-		int todaysDateMonth = 6;
-        int todaysDateDay = 22;
-        int todaysDateYear = 2026;
-        int birthdayMonth = 2;
-        int birthdayDay = 23;
-        int birthdayYear = 2009;
+		int todaysDateMonth = 2;
+        int todaysDateDay = 20;
+        int todaysDateYear = 2020;
+        int birthdayMonth = 8;
+        int birthdayDay = 26;
+        int birthdayYear = 1918;
 
 		/***** INPUT SECTION *****/
 		// N/A (no input for this lab)
