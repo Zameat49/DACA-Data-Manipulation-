@@ -10,7 +10,7 @@ public class Main
 
 		/***** INITIALIZATION SECTION *****/
 		int todaysDateMonth = 2;
-        int todaysDateDay = 20;
+        int todaysDateDay = 2;
         int todaysDateYear = 2020;
         int birthdayMonth = 8;
         int birthdayDay = 26;
